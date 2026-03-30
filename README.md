@@ -5,11 +5,20 @@ Full Stack Web Developer & WordPress Expert
 +500 projects completed for agencies and companies  
 Specialized in WordPress, Laravel, SEO & Web Performance  
 
+ ## 💼 Services
+WordPress Development
+E-commerce Development (WooCommerce)
+Website Creation
+Web Applications (Angular / React / Next.js)
+API Development (Laravel / NestJS)
+MVP / SaaS Development
+SEO Optimization
+Website Performance Optimization
+DevOps & Deployment
 
 ## 🚀 Tech Stack
-  
-### 🎨 Frontend
-<p align="left" dir="auto">
+
+### 🎨 Frontend 
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c26d977719f5503b94b4a3ed4b0555752bb1c9f7c5aae95377cc4a7fd1758c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/4c26d977719f5503b94b4a3ed4b0555752bb1c9f7c5aae95377cc4a7fd1758c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465" alt="Angular" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
@@ -42,8 +51,7 @@ Specialized in WordPress, Laravel, SEO & Web Performance
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aabd73a297b4ef79441d63882c493a741bb9057396096ca5f51b053a3bdaf3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e6172517562652d3445394243443f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6e617271756265266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/aabd73a297b4ef79441d63882c493a741bb9057396096ca5f51b053a3bdaf3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e6172517562652d3445394243443f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6e617271756265266c6f676f436f6c6f723d7768697465" alt="SonarQube" data-canonical-src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=white" style="max-width: 100%;"></a>
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/ed1a07e6b4988b48671328cdb74d95f89c7498518a749f39c8bb8ddc5cb44fda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a> 
 
 ### ⚙️ Backend & CMS
 - PHP / Laravel
@@ -81,9 +89,6 @@ Specialized in WordPress, Laravel, SEO & Web Performance
 - Git
 - GitHub
 
-### 🛠️ Skills
-- DEV / SEO / Optimization
-
 ## 💼 Services
 - WordPress Development
 - Website Creation
@@ -93,6 +98,6 @@ Specialized in WordPress, Laravel, SEO & Web Performance
 - MVP / CRM / ERP Development
 
 ## 📫 Contact
-- Email: lazrakmohamed2018@email.com
+- Email: <a href="mailto:lazrakmohamed2018@email.com">lazrakmohamed2018@email.com</a>
 - LinkedIn: https://www.linkedin.com/in/lazrak-mohammed/
 - Portfolio: https://webspeed.fr/portfolio-lazrak-mohammed/
